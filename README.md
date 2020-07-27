@@ -1,2 +1,0 @@
-# webstart
-Kamaliev Almaz
